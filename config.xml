@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget id="com.ionicframework.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>eVaca</name>
+    <description>
+        An Ionic Framework and Cordova project to easily plan vacations on budget.
+    </description>
+    <author email="acosta.fnando@gmail.com">
+        Fernando
+    </author>
+    <content src="index.html"/>
+    <allow-navigation href="*"/>
+    <allow-intent href="*"/>
+    <icon src="www/img/eVacaHomescreen.png"/>
+</widget>
